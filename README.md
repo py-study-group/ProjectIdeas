@@ -12,6 +12,17 @@ This is a list of projects that someone who has a good knowledge of a programmin
 - Write a GUI program that periodically displays computer total memory and processor usage.
 
 
+#### Databases
+
+- Write a database browser. It should be a GUI application with a treeview widget in which database's tables are displayed as the treeview nodes. It should also be able to display table columns as subnodes.
+- Write a program that displays a SQL definition (create)  for an existing table.
+- Write a program that exports and imports an existing table contents to a csv file.
+
+#### GUI
+
+- Write a simple editor (Notepad-like) that should have basic functions like create a new file, open file, save file and cut, copy and paste functions. It should also have an option to set the editor display font.
+- Improving on the previous project, write a simple programming editor that should be able to compile and run a program in your language of choice and display results (advanced).
+- Write a simple note taking application.
 
 #### Image processing
 
