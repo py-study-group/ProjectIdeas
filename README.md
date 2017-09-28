@@ -46,7 +46,7 @@ This is a list of projects that someone who has a good knowledge of a programmin
 #### Simulation
 
 - Create a Conway's game of life simulation
-- Create a simulation of [bird of fish flocking behavior](https://en.wikipedia.org/wiki/Flocking_(behavior)) (advanced)
+- Create a simulation of [bird or fish flocking behavior](https://en.wikipedia.org/wiki/Flocking_(behavior)) (advanced)
 - Implement a basic [Ant colony optimization algorithm](https://en.wikipedia.org/wiki/Ant_colony_optimization_algorithms) (advanced)
 - Create a simple [Predator-prey simulation](http://www.scholarpedia.org/article/Predator-prey_model)
 
