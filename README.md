@@ -36,7 +36,7 @@ This is a list of projects that someone who has a good knowledge of a programmin
 
 #### Image processing
 
-- Create a captcha library
+- Create a captcha library.
 - Create a library for adding watermarks to images. The library should have options to add both text and image watermarks.
 - Create a library to generate animated gifs from video clips.
 - Create a library that generates thumbnails for a given set of images.
@@ -46,9 +46,9 @@ This is a list of projects that someone who has a good knowledge of a programmin
 #### Simulation
 
 - Create a Conway's game of life simulation
-- Create a simulation of [bird of fish flocking behavior](https://en.wikipedia.org/wiki/Flocking_(behavior)) (advanced)
-- Implement a basic [Ant colony optimization algorithm](https://en.wikipedia.org/wiki/Ant_colony_optimization_algorithms) (advanced)
-- Create a simple [Predator-prey simulation](http://www.scholarpedia.org/article/Predator-prey_model)
+- Create a simulation of [bird of fish flocking behavior](https://en.wikipedia.org/wiki/Flocking_(behavior)) (advanced).
+- Implement a basic [Ant colony optimization algorithm](https://en.wikipedia.org/wiki/Ant_colony_optimization_algorithms) (advanced).
+- Create a simple [Predator-prey simulation](http://www.scholarpedia.org/article/Predator-prey_model).
 
 
 
@@ -56,6 +56,6 @@ This is a list of projects that someone who has a good knowledge of a programmin
 
 - Create a generic game loop with 60 FPS as a goal.
 - Create a Snake clone.
-- Create a Space Invaders clone
-- Create a Tetris clone
-- Create a Mastermind clone
+- Create a Space Invaders clone.
+- Create a Tetris clone.
+- Create a Mastermind clone.
