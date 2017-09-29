@@ -1,6 +1,6 @@
 # Intermediate Project Ideas
 
-This is a list of projects that someone who has a good knowledge of a programming language basics may do as a practice to improve their knowledge of the language. The projects are language agnostic and the project descriptions are general enough to leave potential implementers freedom to implement projects as they see fit. Contributions to the list are welcome.
+This is a list of projects that someone who has a good knowledge of a programming language's basics may do as a practice to improve their knowledge of the language. The projects are language agnostic and the project descriptions are general enough to leave potential implementers freedom to implement projects as they see fit. Contributions to the list are welcome.
 
 
 
@@ -9,14 +9,14 @@ This is a list of projects that someone who has a good knowledge of a programmin
 - Write a program that displays basic computer information (processor, memory, disks etc). You can use a GUI or CLI.
 - Write a program that lists all active processes with their memory usage.
 - Write a GUI program that lists installed services/daemons and is able to start/stop/restart each (advanced).
-- Write a program that lists available disk space for all computer in a network segment.
+- Write a program that lists available disk space for all computers in a network segment.
 - Write a GUI program that periodically displays computer total memory and processor usage.
 - Write a program that calculates the total size of all the files in a directory tree and displays the size and the largest file.
 
 
 #### Databases
 
-- Write a database browser. It should be a GUI application with a treeview widget in which database's tables are displayed as the treeview nodes. It should also be able to display table columns as subnodes.
+- Write a database browser. It should be a GUI application with a treeview widget in which the database's tables are displayed as the treeview nodes. It should also be able to display table columns as subnodes.
 - Write a program that displays a SQL definition (create)  for an existing table.
 - Write a program that exports and imports an existing table contents to a csv file.
 
@@ -45,10 +45,11 @@ This is a list of projects that someone who has a good knowledge of a programmin
 
 #### Simulation
 
-- Create a Conway's game of life simulation
+- Create a Conway's game of life simulation.
 - Create a simulation of [bird of fish flocking behavior](https://en.wikipedia.org/wiki/Flocking_(behavior)) (advanced).
-- Implement a basic [Ant colony optimization algorithm](https://en.wikipedia.org/wiki/Ant_colony_optimization_algorithms) (advanced).
+- Implement a basic [Ant colony optimization algorithm](https://en.wikipedia.org/wiki/Ant_colony_optimization_algorithms). (advanced).
 - Create a simple [Predator-prey simulation](http://www.scholarpedia.org/article/Predator-prey_model).
+
 
 
 
@@ -59,3 +60,4 @@ This is a list of projects that someone who has a good knowledge of a programmin
 - Create a Space Invaders clone.
 - Create a Tetris clone.
 - Create a Mastermind clone.
+
